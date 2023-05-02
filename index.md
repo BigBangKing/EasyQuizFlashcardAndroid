@@ -1,6 +1,6 @@
 ## EasyQuiz Flashcard 
 
-EasyQuiz Flashcard - En-PL is an application that can be used to learn English to Polish language.
+EasyQuiz Flashcard - En-PL is an application that can be used to learn English to Polish language and vice versa.
 
 # privacy policy:
 
